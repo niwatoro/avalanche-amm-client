@@ -7,7 +7,7 @@ import {
 } from "../typechain-types";
 import AmmArtifact from "../utils/AMM.json";
 import { getEthereum } from "../utils/ethereum";
-import JoeArtifact from "../utils/JoeToken.json";
+import JoeArtifact from "../utils/JOEToken.json";
 import UsdcArtifact from "../utils/USDCToken.json";
 
 export const UsdcAddress = "0x64dE95296C79E11808F4bC7cef233E815586474F";
